@@ -1,4 +1,4 @@
-# js-ipfs-cluster-api
+# ipfs-cluster-js-api
 
 > A client library for the IPFS Cluster HTTP API, implemented in JavaScript.
 
@@ -10,7 +10,7 @@ This is a port of `ipfs/js-ipfs-api` adapted for the API exposed by `ipfs/ipfs-c
 
 This module can be installed through npm directly from the github repository.
 
-`npm install https://github.com/cnych/js-ipfs-cluster-api`
+`npm install ipfs-cluster-js-api`
 
 ### Dependencies
 
