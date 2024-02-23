@@ -1,5 +1,5 @@
 {
-  "name": "ipfs-cluster-api",
+  "name": "ipfs-cluster-js-api",
   "version": "0.0.1",
   "description": "A client library for the IPFS Cluster HTTP API.",
   "repository": "https://github.com/cnych/ipfs-cluster-js-api.git",
